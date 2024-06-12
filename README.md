@@ -2,7 +2,8 @@
 
 This project demonstrates the deployment and hosting of a dynamic website on AWS using a comprehensive setup that includes Virtual Private Cloud (VPC), EC2 instances, Auto Scaling, Load Balancing, and other AWS services to ensure high availability, security, and fault tolerance.
 
-Project Overview
+Project Overview:
+
 The primary objective of this project is to deploy a dynamic website on AWS using the following resources and configurations:
 
 Virtual Private Cloud (VPC): Configured with both public and private subnets spanning two availability zones for enhanced reliability and fault tolerance.
